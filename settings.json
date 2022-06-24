@@ -1,0 +1,23 @@
+{
+    "tokens": [
+  "OTg1Mjg0NTI5ODcyODQ2OTEx.GpEi97.cuQARN7wjAmpMIgo5MHgHDi4yw8WYT2d3licgE",
+  "OTg1Mjg1MjU0NzExNDkyNjQ4.GHj185.b8j1wt4JC37M1oUAa_qJaD4WQcUM9OqnyMes7w",
+  "OTg1Mjg1MzkyNjk1NzA1NjUx.GPW7ip.RPnr2PHkBBgiybdNPAfVrmo-IYwrbwq5TjxUsA",
+  "OTg1NDEyNDE5NjA0MDYyMjM4.GqxpZ8.IR8blP3ZnBdSSmQj9YBb3abF6pxuHXGjuzlk6I",
+  "OTY5OTUwMjU0MjA2MTg1NDgy.GJTFRt.Va2aLT8pAc5JHmg6MzcAh1TS0v6v_T1Ef18WxM"],
+    "channels": [
+      "989844870585782298",
+      "989844870585782299",
+      "989844870585782300",
+      "989844870585782301",
+      "989844870992650250"],
+  
+    "staffRoles": [
+      "989844868375412739","989844868375412740"],
+  
+    "unregisterRoles": ["989844868283121700","989844868283121697"],
+  
+    "welcomeSound": "https://cdn.discordapp.com/attachments/872812466667655208/875689084876623892/Comp_1.mp3",
+    "staffSound": "https://cdn.discordapp.com/attachments/872812466667655208/875665713845661696/clandestine-cocaina-remix_1.mp3"
+  }
+  

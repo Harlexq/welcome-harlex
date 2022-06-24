@@ -1,1 +1,5 @@
-# welcome-harlex
+ALTYAPIYİ PAYLAŞMAYIN MIT LICANSE VAR :)
+
+İYİ GÜNLERDE KULLANIN...
+
+SORUN ÇIKARSA = 🝃 Harlex#7969
